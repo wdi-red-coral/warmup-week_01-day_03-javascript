@@ -1,5 +1,4 @@
 let num = 33;
-let text = toString(num);
 if (num % 3 == 0) { 
     console.log('Pling');
 
@@ -13,5 +12,5 @@ else if (num % 7 == 0) {
 
 } 
 else { 
-    console.log(text); 
+    console.log(num.toString()); 
 }
