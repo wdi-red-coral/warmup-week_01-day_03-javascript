@@ -23,8 +23,11 @@ if (num1 % 7 === 0)
     console.log(num1.toString());
 
 
+function printName(name){
+    console.log(name);
+}
 
-
+printName(name);
 
 
 
