@@ -1,7 +1,7 @@
 function myFunction (num) {
 
     if ( num % 3 === 0 && num % 5 ===0 && num % 7 === 0 ) {
-   console.log('fizzbuzz')
+   console.log('plingPlangPlong')
 } else if ( num % 3 === 0 ) {
    console.log('pling');
 } else if ( num % 5 === 0 ) {
