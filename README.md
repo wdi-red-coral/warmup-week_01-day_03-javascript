@@ -23,3 +23,30 @@ Create a file named `plingPlangPlong.js` and write a Javascript program that wil
   - The program will output "PlingPlang".
 - When the number is `34`, which has neither 3, 5 nor 7 as a factor.
   - The program will output "34"
+
+## Solution 
+<!-- 
+/*
+var factorialValue = function(factorValue)
+{  
+     if(factorValue%7==0)
+     {
+       console.log('Plong');
+     } 
+     else if(factorValue%3==0&&factorValue%5==0)
+      {
+        console.log('PlingPlang'); 
+       }
+     else if(factorValue%5==0)
+      {
+        console.log('Plang');
+      }
+     else if(factorValue%3==0)
+      {
+        console.log('Pling');
+       }
+     else 
+         console.log(factorValue);
+}
+*/ 
+-->
