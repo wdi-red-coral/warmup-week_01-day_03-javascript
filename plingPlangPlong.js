@@ -18,3 +18,7 @@ else {
         }
     }
 }
+// if 3 & 7 => plingPlong
+// if 7 & 5 => plangPlong
+// if 3 & 5 & 7 => plingPlangPlong
+// testing editing/pushing after the pull request 
