@@ -23,3 +23,16 @@ Write a Javascript program that will store a number (eg `28`, `1755`, `9`, etc) 
   - The program will output "PlingPlang".
 - When the number is `34`, which has neither 3, 5 nor 7 as a factor.
   - The program will output "34"
+
+
+let number = 6666
+
+if (number % 3 === 0){
+  console.log("pling")
+} else if (number % 5 === 0){
+  console.log("plang")
+} else if (number % 7 === 0){
+  console.log("plong")
+} else {
+  console.log("88")
+}
