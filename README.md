@@ -9,7 +9,7 @@ For instance, `12` can be factored as `1×12`, `2×6`, or `3×4`.
 
 ## Problem
 
-Write a Javascript program that will store a number (eg `28`, `1755`, `9`, etc) and outputs the following:
+Create a file named `plingPlangPlong.js` and write a Javascript program that will store a number (eg `28`, `1755`, `9`, etc) and outputs the following:
 
 - If the number contains 3 as a factor, output 'Pling'.
 - If the number contains 5 as a factor, output 'Plang'.
