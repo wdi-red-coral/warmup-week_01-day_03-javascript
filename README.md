@@ -25,14 +25,18 @@ Write a Javascript program that will store a number (eg `28`, `1755`, `9`, etc) 
   - The program will output "34"
 
 
-let number = 6666
+var number = 105
 
-if (number % 3 === 0){
-  console.log("pling")
-} else if (number % 5 === 0){
-  console.log("plang")
+if (number % 3 === 0 && number % 5 === 0 && number % 7 === 0){
+  console.log("plingplangplong")
+} else if (number % 5 === 0 && number % 3 === 0){
+  console.log("plingplang")
 } else if (number % 7 === 0){
   console.log("plong")
+} else if (number % 5 === 0){
+    console.log("plang")
+} else if(number % 3 === 0) {
+  console.log("pling")
 } else {
-  console.log("88")
+  console.log("105")
 }
