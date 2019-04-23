@@ -23,3 +23,4 @@ Write a Javascript program that will store a number (eg `28`, `1755`, `9`, etc) 
   - The program will output "PlingPlang".
 - When the number is `34`, which has neither 3, 5 nor 7 as a factor.
   - The program will output "34"
+
