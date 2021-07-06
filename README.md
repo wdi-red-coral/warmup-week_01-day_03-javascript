@@ -23,3 +23,4 @@ Create a file named `plingPlangPlong.js` and write a Javascript program that wil
   - The program will output "PlingPlang".
 - When the number is `34`, which has neither 3, 5 nor 7 as a factor.
   - The program will output "34"
+
